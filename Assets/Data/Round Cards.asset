@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 593a4c6b6f7fb6f49b23f9e8ed700a60, type: 3}
+  m_Name: Round Cards
+  m_EditorClassIdentifier: 
+  roundCards:
+  - {fileID: 2495972061354432210, guid: ed5b273034f53b343b0d9fca360258e2, type: 3}
+  - {fileID: 985949845169727069, guid: 4132f8c37076896449345cbd3e55adf9, type: 3}
+  - {fileID: 5066239844429658304, guid: fd10a101cbc98ad4ab6f740dcef83e60, type: 3}
+  - {fileID: 4151289590834347490, guid: 385acb6530d343241af774516368865a, type: 3}
+  - {fileID: 1536737373177408248, guid: 5a9337270402b994599d9e531d3e5402, type: 3}
+  - {fileID: 8786084655521247094, guid: 515d1e55f0d49514dbe130adccaffbc1, type: 3}
