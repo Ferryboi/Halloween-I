@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fa7cf8723d3db34e94b07f8a9974aee, type: 3}
+  m_Name: Test Mode
+  m_EditorClassIdentifier: 
+  _type: 2
+  spawnerData: []
+  _startingRoundDuration: 100
+  _roundDurationIncr: 0
+  _playerMultiplier: 0

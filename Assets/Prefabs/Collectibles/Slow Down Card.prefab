@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7347338987834484168
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 74188825709036455, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: bda0119290d8c9a4c8c8dbe3e0c41820, type: 3}
+    - target: {fileID: 2993234211438641679, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_Size.x
+      value: 6.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2993234211438641679, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_Size.y
+      value: 7.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 2993234211438641679, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7e06b4fd1678a63489af4a00cccca770, type: 3}
+    - target: {fileID: 2993234211438641679, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239314, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518814315675239317, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+      propertyPath: m_Name
+      value: Slow Down Card
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+--- !u!1 &985949845169727069 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7518814315675239317, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+  m_PrefabInstance: {fileID: 7347338987834484168}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8383513473937142281 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1274172312311683009, guid: 5d96dd8f6e991db4b9d65b161efe0c31, type: 3}
+  m_PrefabInstance: {fileID: 7347338987834484168}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6931037655764385005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 985949845169727069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8156c66d83eb78e45a727c5bff0446de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _description: Slow Speed of Ghosts
+  _cost: 3
+  cardContents: {fileID: 8383513473937142281}
+  fractionOfSpeed: 0.5
